@@ -494,12 +494,5 @@
                 </plugins>
             </reporting>
         </profile>
-    </profiles>
-    <distributionManagement>
-	    <repository>
-		    <id>releases</id>
-		    <nameRelease</name>
-		    <url>http://soevg35683dns.eastus2.cloudapp.azure.com:8081/repository/releases/</url>
-	    </repository>
-    </distributionManagement>
+	</profiles>
 </project>
